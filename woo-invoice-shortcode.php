@@ -2,7 +2,7 @@
 /*
 Plugin Name: Woo Invoice Shortcode
 Description: نمایش فاکتور سفارش ووکامرس با قابلیت چاپ و دانلود
-Version: 2.4
+Version: 2.5
 */
 
 if (!defined('ABSPATH')) exit;
