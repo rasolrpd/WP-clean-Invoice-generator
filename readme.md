@@ -20,7 +20,7 @@ A lightweight WordPress plugin that generates clean and simple invoices.
 
 
 ## Usage
-After activating the plugin, you can generate invoices from your WordPress dashboard.
+After activating the plugin, now yoy will have clean invoice instead of the normal thankyou page order summary. you can also download or print the invoice on the page.
 
 ## Screenshots
 
