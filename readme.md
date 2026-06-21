@@ -1,4 +1,5 @@
 # WP Clean Invoice Generator
+# افزونه صدور فاکتور ووکامرس وردپرس
 
 A lightweight WordPress plugin that generates clean and simple invoices.
 
