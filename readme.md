@@ -14,20 +14,21 @@ A lightweight WordPress plugin that generates clean and simple invoices.
 2. Upload the plugin folder to `/wp-content/plugins/`
 3. Go to WordPress Admin → Plugins
 4. Activate **WP Clean Invoice Generator**
+4. Copy [woo_invoice_table] short code to you thankyou page created by elemetor or ddefaultone
+
+
 
 ## Usage
 After activating the plugin, you can generate invoices from your WordPress dashboard.
 
 ## Screenshots
 
-### Invoice Layout
-![Invoice Layout](screenshot1.png)
 
 ### Invoice Details
-![Invoice Details](screenshot2.png)
+![invoice screenshot-desctop](desktop-view.PNG)
 
 ### Mobile View
-![Mobile View](screenshot3.png)
+![Mobile View](mobile-view.png)
 
 ## Requirements
 - WordPress 5.0+
